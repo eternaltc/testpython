@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../FOC人员数据/FLASK-master/.idea/FLASK-master.iml" filepath="$PROJECT_DIR$/../../FOC人员数据/FLASK-master/.idea/FLASK-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../飞机性能修正参数文件分析工具/最新/PBCF-master/.idea/PBCF-master.iml" filepath="$PROJECT_DIR$/../../飞机性能修正参数文件分析工具/最新/PBCF-master/.idea/PBCF-master.iml" />
+      <module fileurl="file://E:/学习/python学习/学习笔记/TestCode/.idea/TestCode.iml" filepath="E:/学习/python学习/学习笔记/TestCode/.idea/TestCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../不可预期燃油/manual/.idea/manual.iml" filepath="$PROJECT_DIR$/../../不可预期燃油/manual/.idea/manual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../odb-master/odb-master/.idea/odb-master.iml" filepath="$PROJECT_DIR$/../odb-master/odb-master/.idea/odb-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
